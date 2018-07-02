@@ -1,0 +1,11 @@
+c:\users\cool_water\source\repos\WebMovieScraper\WebMovieScraper\bin\Debug\WebMovieScraper.exe.config
+c:\users\cool_water\source\repos\WebMovieScraper\WebMovieScraper\bin\Debug\WebMovieScraper.exe
+c:\users\cool_water\source\repos\WebMovieScraper\WebMovieScraper\bin\Debug\WebMovieScraper.pdb
+c:\users\cool_water\source\repos\WebMovieScraper\WebMovieScraper\obj\Debug\WebMovieScraper.csprojAssemblyReference.cache
+c:\users\cool_water\source\repos\WebMovieScraper\WebMovieScraper\obj\Debug\WebMovieScraper.csproj.CoreCompileInputs.cache
+c:\users\cool_water\source\repos\WebMovieScraper\WebMovieScraper\obj\Debug\WebMovieScraper.exe
+c:\users\cool_water\source\repos\WebMovieScraper\WebMovieScraper\obj\Debug\WebMovieScraper.pdb
+c:\users\cool_water\source\repos\WebMovieScraper\WebMovieScraper\bin\Debug\HtmlAgilityPack.dll
+c:\users\cool_water\source\repos\WebMovieScraper\WebMovieScraper\bin\Debug\HtmlAgilityPack.pdb
+c:\users\cool_water\source\repos\WebMovieScraper\WebMovieScraper\bin\Debug\HtmlAgilityPack.xml
+c:\users\cool_water\source\repos\WebMovieScraper\WebMovieScraper\obj\Debug\WebMovieScraper.csproj.CopyComplete
